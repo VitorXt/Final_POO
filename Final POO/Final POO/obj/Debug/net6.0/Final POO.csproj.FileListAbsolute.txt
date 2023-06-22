@@ -1,0 +1,15 @@
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\bin\Debug\net6.0\Final POO.exe
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\bin\Debug\net6.0\Final POO.deps.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\bin\Debug\net6.0\Final POO.runtimeconfig.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\bin\Debug\net6.0\Final POO.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\bin\Debug\net6.0\Final POO.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.csproj.AssemblyReference.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.AssemblyInfoInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.AssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.csproj.CoreCompileInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\refint\Final POO.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\Final POO.genruntimeconfig.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\3° Periodo\Robin\2° Bimestre\Final POO\Final POO\obj\Debug\net6.0\ref\Final POO.dll
